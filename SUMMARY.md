@@ -1,6 +1,6 @@
 # Summary
 
-* [GitBook](README.md)
+* [GitBook](INTRO.md)
 * [01.终端工具](01终端工具.md)
     * [1.1 gitbook-cli](01终端工具.md#gitbook-cli)
     * [1.2 gitbook](01终端工具.md#gitbook)
@@ -12,7 +12,7 @@
     * [3.2 命令行创建](03创建书籍.md#命令行创建)
 * [04.配置书籍](04配置书籍.md)
     * [4.1 book.json](04配置书籍.md#bookjson或者bookjs)
-    * [4.2 替代README.md](04配置书籍.md#替代README.md)
+    * [4.2 替代README](04配置书籍.md#替代README.md)
     * [4.3 样式扩展](04配置书籍.md#扩展电子书和站点的样式)
     * [4.4 PDF配置](04配置书籍.md#PDF配置)
     * [4.5 实例](04配置书籍.md#实例)

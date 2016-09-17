@@ -8,6 +8,9 @@
 			"Home": "https://zhilidali.github.io/"
 		}
 	},
+	"structure": {
+		"readme": "INTRO.md"
+	},
 	"plugins": [
 		"toggle-chapters",
 		"splitter",
