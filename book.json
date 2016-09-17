@@ -1,15 +1,27 @@
 {
 	"title": "GitBook Pro",
-	"description": "《GitBook Pro》一本专业轻松透明学GitBook的教程书，没有之一",
+	"description": "《GitBook Pro》一本专业轻松学GitBook的透明教程书，没有之一",
 	"author": "zhilidali",
 	"language" : "zh-hans",
 	"links": {
 		"sidebar": {
-			"Home": "https://zhilidali.github.io/gitbook/",
-			"GitHub": "https://github.com/zhilidali/"
+			"Home": "https://zhilidali.github.io/"
 		}
 	},
-	"plugins": [],
+	"plugins": [
+		"toggle-chapters",
+		"splitter",
+		"github",
+		"tbfed-pagefooter"
+	],
 	"pluginsConfig": {
+		"github": {
+			"url": "https://github.com/zhilidali/"
+		},
+		"tbfed-pagefooter": {
+			"copyright": "Copyright &copy zhilidali 2016",
+			"modify_label": "该文件修订于:",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		}
 	}
 }
