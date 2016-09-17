@@ -42,3 +42,4 @@
 
 
 # 协议
+MIT License
