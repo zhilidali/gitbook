@@ -1,6 +1,6 @@
 # Summary
 
-* [GitBook Pro](README.md)
+* [GitBook](README.md)
 * [终端工具](01终端工具.md)
 * [项目结构](02项目结构.md)
 * [创建书籍](03创建书籍.md)

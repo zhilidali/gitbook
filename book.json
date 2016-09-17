@@ -1,12 +1,12 @@
 {
 	"title": "GitBook Pro",
-	"description": "一本关于GitBook的教程的书，没有之一",
+	"description": "《GitBook Pro》一本专业轻松透明学GitBook的教程书，没有之一",
 	"author": "zhilidali",
 	"language" : "zh-hans",
 	"links": {
 		"sidebar": {
-			"Home": "https://github.com/zhilidali/gitbook/",
-			"GitHub": "https://github.com/zhilidali/gitbook/"
+			"Home": "https://zhilidali.github.io/gitbook/",
+			"GitHub": "https://github.com/zhilidali/"
 		}
 	},
 	"plugins": [],
