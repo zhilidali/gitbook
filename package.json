@@ -1,0 +1,26 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "《GitBook Pro》一本专业轻松学GitBook的透明教程书，没有之一",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-toggle-chapters": "^0.0.3",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "gitbook-plugin-splitter": "^0.0.7",
+    "gitbook-plugin-github": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhilidali/gitbook.git"
+  },
+  "author": "zhilidali <https://github.com/zhilidali/>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhilidali/gitbook/issues"
+  },
+  "homepage": "https://github.com/zhilidali/gitbook#readme"
+}
