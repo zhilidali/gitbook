@@ -12,7 +12,8 @@
 		"toggle-chapters",
 		"splitter",
 		"github",
-		"tbfed-pagefooter"
+		"tbfed-pagefooter",
+		"donate"
 	],
 	"pluginsConfig": {
 		"github": {
@@ -22,6 +23,12 @@
 			"copyright": "Copyright &copy zhilidali 2016",
 			"modify_label": "该文件修订于:",
 			"modify_format": "YYYY-MM-DD HH:mm:ss"
-		}
+		},
+		"donate": {
+			"wechat": "src/images/wechatpay.png",
+			"alipay": "src/images/alipay.png",
+			"title": "坚持原创技术分享，您的支持将鼓励我继续创作！",
+			"button": "打赏"
+        }
 	}
 }

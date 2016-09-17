@@ -7,7 +7,8 @@
     "gitbook-plugin-toggle-chapters": "^0.0.3",
     "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
     "gitbook-plugin-splitter": "^0.0.7",
-    "gitbook-plugin-github": "^2.0.0"
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-donate": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
