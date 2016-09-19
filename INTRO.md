@@ -1,3 +1,6 @@
+# GitBook
+>《GitBook Clarity》一本专业轻松学GitBook的透明教程书，没有之一
+
 # GitBook应用
 
 1.`GitBook`是个用Git和Markdown来构建美观书籍的终端工具集，可生成多种格式的书籍

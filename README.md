@@ -1,3 +1,6 @@
+# GitBook
+>《GitBook Clarity》一本专业轻松学GitBook的透明教程书，没有之一
+
 # 项目地址
 *	[GitHub Pages](https://zhilidai.github.io/gitbook/)
 *	[GitBook](https://zhilidali.gitbooks.io/gitbook/content/)
