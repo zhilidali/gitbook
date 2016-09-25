@@ -16,7 +16,7 @@
 3.[GitBook Editor](https://www.gitbook.com/editor/): GitBook的官方编辑器
 
 # 本项目地址
-*	[GitHub Pages](https://zhilidai.github.io/gitbook/)
+*	[GitHub Pages](https://zhilidali.github.io/gitbook/)
 *	[GitBook](https://zhilidali.gitbooks.io/gitbook/content/)
 
 # 环境依赖
